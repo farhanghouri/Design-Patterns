@@ -1,0 +1,18 @@
+import java.io.File;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class JsonConverterService implements ConverterService {
+
+	@Override
+	public void convertData(Object object) {
+		ObjectMapper mapper = new ObjectMapper();
+		try {
+			mapper.writeValue(new File("result.json"), object);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}
