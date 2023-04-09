@@ -16,4 +16,4 @@ Consider you always need to up to date your views content against database. Obse
 
 ### Implementation:
 
-![alt text](https://github.com/farhanghouri/Design-Pattern/blob/master/ObserverDP/observer.png)
+![alt text](https://github.com/farhanghouri/Design-Patterns/blob/main/ObserverDP/observer.png)

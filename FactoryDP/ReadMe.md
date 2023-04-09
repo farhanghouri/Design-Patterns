@@ -16,4 +16,4 @@ Consider you need to use windows and mac button. You can either instantiate thes
 
 ### Implementation:
 
-![alt text](https://github.com/farhanghouri/Design-Pattern/blob/master/FactoryDP/factory.png)
+![alt text](https://github.com/farhanghouri/Design-Patterns/blob/main/FactoryDP/factory.png)

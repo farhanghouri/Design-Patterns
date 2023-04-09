@@ -16,4 +16,4 @@ Consider you have a file system class which performs read/write functionality bu
 
 ### Implementation:
 
-![alt text](https://github.com/farhanghouri/Design-Pattern/blob/master/ProxyPattern/proxy.png)
+![alt text](https://github.com/farhanghouri/Design-Patterns/blob/main/ProxyPattern/proxy.png)

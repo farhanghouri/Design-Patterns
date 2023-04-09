@@ -16,4 +16,4 @@ Consider you need to construct a network packet. Builder pattern provides a buil
 
 ### Implementation:
 
-![alt text](https://github.com/farhanghouri/Design-Pattern/blob/master/BuilderDP/builder.png)
+![alt text](https://github.com/farhanghouri/Design-Patterns/blob/main/BuilderDP/builder.png)
